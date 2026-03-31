@@ -1,3 +1,5 @@
+# profile-title: XFR VLESS Servers
+
 vless://c9c620c4-71e1-4eff-9249-fcf0dcaee7aa@178.17.58.224:59712?security=reality&fp=firefox&pbk=XxR1Y9AgqzxktLaGAKgKhirKk9E_I8riI43FhebRU1E&sid=dbac19&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#VPS-G-1%20VLESS-Dolphin
 vless://95e1f38f-8dde-44df-8128-84464b40930f@103.80.86.84:49876?security=reality&fp=firefox&pbk=spQAYZ_iYmr0NiJkvQtrOXWqGtRu53_yHQiYf5TPC0o&sid=fd1a123a&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#VPS-Y-1%20VLESS-PC_Dolphin
 vless://5fe38d1a-9449-441d-90ad-ecfd7faba025@151.245.140.241:41753?type=tcp\u0026encryption=none\u0026security=reality\u0026pbk=w_WvS5Gq6eV252TLItTTMeT9fv1_4zwjN46w6EAWNGs\u0026fp=chrome\u0026sni=\u0026sid=d5\u0026spx=%2F\u0026flow=xtls-rprx-vision#VPS-H-FI-1%20VLESS-Dolphin_PC
