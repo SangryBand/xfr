@@ -1,0 +1,3 @@
+# profile-title: XFR Vasya Servers
+
+vless://487da311-0f58-4c03-a4e5-45256153be8b@151.245.140.241:41753?type=tcp&encryption=none&security=reality&pbk=w_WvS5Gq6eV252TLItTTMeT9fv1_4zwjN46w6EAWNGs&fp=chrome&sni=&sid=d5&spx=%2F&flow=xtls-rprx-vision#VPS-H-FI-1%20VLESS-Vasya
