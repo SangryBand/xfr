@@ -1,0 +1,5 @@
+# profile-title: XFR VLESS Servers (All)
+
+vless://d5d2f3c2-5f7e-4d6e-9200-4901c978af59@178.17.58.224:59712/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=XxR1Y9AgqzxktLaGAKgKhirKk9E_I8riI43FhebRU1E&sid=dbac19#VPS-G-1%20VLESS-X-SofterMobile
+vless://d42eb32d-17c4-4693-8e8a-b093f9185860@103.80.86.84:49876/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=spQAYZ_iYmr0NiJkvQtrOXWqGtRu53_yHQiYf5TPC0o&sid=fd1a123a#VPS-Y-1%20VLESS-X-SofterMobile
+vless://1b315cea-ea41-43c6-b864-b4d74cf5dff7@151.245.140.241:41753/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=w_WvS5Gq6eV252TLItTTMeT9fv1_4zwjN46w6EAWNGs&sid=d5#VPS-H-FI-1%20VLESS-X-Softer_Mobile
