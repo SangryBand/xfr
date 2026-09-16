@@ -1,4 +1,4 @@
-# profile-title: XFR Dolphin Servers
+# profile-title: XFR X-PC Servers
 
-vless://5fe38d1a-9449-441d-90ad-ecfd7faba025@151.245.140.241:41753?type=tcp&encryption=none&security=reality&pbk=w_WvS5Gq6eV252TLItTTMeT9fv1_4zwjN46w6EAWNGs&fp=chrome&sni=&sid=d5&spx=%2F&flow=xtls-rprx-vision#VPS-H-FI-1%20VLESS-Dolphin_PC
-vless://95e1f38f-8dde-44df-8128-84464b40930f@103.80.86.84:49876?security=reality&fp=firefox&pbk=spQAYZ_iYmr0NiJkvQtrOXWqGtRu53_yHQiYf5TPC0o&sid=fd1a123a&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#VPS-Y-1%20VLESS-PC_Dolphin
+vless://735caa7d-d67a-4596-b577-d12d9fe68e27@151.245.140.241:41753?type=tcp&encryption=none&security=reality&pbk=w_WvS5Gq6eV252TLItTTMeT9fv1_4zwjN46w6EAWNGs&fp=chrome&sni=&sid=d5&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20%5BVPS-H-FI-1%5D%20VLESS-X_PC
+vless://536741dc-a253-4ad6-8755-d26e744a2762@103.80.86.84:58089?type=tcp&encryption=none&security=reality&pbk=w3tafBL6mWfKvypb3FTbWA6DGOBNue1plRGss7uQu3I&fp=chrome&sni=&sid=c49ae95293b76b54&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20%5BVPS-Y-1%5D%20VLESS-X_PC
